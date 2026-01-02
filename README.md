@@ -115,4 +115,16 @@ The app will run on:
 (or whichever port Vite shows)
 ```
 
+---
+
+## 👨‍💻 Author
+
+**Takian Rashid**  
+Frontend & Full-Stack Developer | Aspiring Software Engineer
+
+- **GitHub:** https://github.com/mdtakianrashid  
+- **LinkedIn:** https://www.linkedin.com/in/mdtakianrashid/
+
+---
+
 ## 🎉 Thank You!
